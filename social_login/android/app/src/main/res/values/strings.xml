@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">소셜로그인</string>
+
+    <!-- 페이스북 -->
+    <string name="facebook_app_id">1191095098407026</string>
+    <string name="facebook_client_token">b2831ef43056530536124a5d6e791d35</string>
+    <string name="fb_login_protocol_scheme">fb1191095098407026</string>
+
+
+</resources>
